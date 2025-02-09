@@ -7,7 +7,7 @@ wheels/
 *.egg-info
 
 # Environment
-.env
+#.env
 .env.*
 !.env.example
 
